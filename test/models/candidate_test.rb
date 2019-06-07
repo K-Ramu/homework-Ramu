@@ -1,5 +1,5 @@
 require 'test_helper'
-require 'byebug'
+
 class CandidateTest < ActiveSupport::TestCase
   def setup
     create_answers_and_ratings
